@@ -1,7 +1,10 @@
-# Welcome to the Git Example Repository
+# Creating and Pushing Your Work to GitHub 
 
-This is an example repository!
+## How To Create a Local Repository and Push to GitHub
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L7vzPm3_Im8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Regular Workflow
 
 Our everyday process to update our work to GitHub:
 1. Do some work (creating/editing files)
